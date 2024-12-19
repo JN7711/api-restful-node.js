@@ -1,0 +1,15 @@
+{
+    "publicaciones" : [
+     { "id" : " 1 " , "title" : " un título " , "views" : 100 },
+     { "id" : " 2 " , "title" : " otro título " , "views" : 200 }
+   ],
+   "comentarios" : [
+     { "id" : " 1 " , "text" : " un comentario sobre la publicación 1 " , "postId" : " 1 " },
+     { "id" : " 2 " , "text" : " otro comentario sobre la publicación 1 " , "postId" : " 1 " }
+   ],
+   "perfil" : {
+      "nombre" : " typicode "
+   }
+ }
+
+ 
